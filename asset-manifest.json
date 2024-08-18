@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/exam_pixi/static/css/main.3ea6b461.css",
+    "main.js": "/exam_pixi/static/js/main.be72fa9e.js",
+    "static/js/453.2295a44f.chunk.js": "/exam_pixi/static/js/453.2295a44f.chunk.js",
+    "static/media/image_product.png": "/exam_pixi/static/media/image_product.3d2924635f3e35866aca.png",
+    "static/media/bg_cart.png": "/exam_pixi/static/media/bg_cart.706d751c4c9d48e6cf9d.png",
+    "static/media/Frame.png": "/exam_pixi/static/media/Frame.05d97438af9ca51fdc65.png",
+    "static/media/list.svg": "/exam_pixi/static/media/list.db5c0bbdda379c9c63cc980e211aab89.svg",
+    "index.html": "/exam_pixi/index.html",
+    "static/media/cart.svg": "/exam_pixi/static/media/cart.6911e3761afb6428239195f8082c56f4.svg",
+    "static/media/ic_clear.svg": "/exam_pixi/static/media/ic_clear.fe3d0f8cadc4d3e104f8ecf864d86c3c.svg",
+    "static/media/bg_footer.svg": "/exam_pixi/static/media/bg_footer.5ba166f7c5f7d3a79a6d.svg",
+    "main.3ea6b461.css.map": "/exam_pixi/static/css/main.3ea6b461.css.map",
+    "main.be72fa9e.js.map": "/exam_pixi/static/js/main.be72fa9e.js.map",
+    "453.2295a44f.chunk.js.map": "/exam_pixi/static/js/453.2295a44f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3ea6b461.css",
+    "static/js/main.be72fa9e.js"
+  ]
+}
