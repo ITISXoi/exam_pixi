@@ -10,20 +10,25 @@ import Layout from "./components/Layout";
 import { Provider } from "react-redux";
 import store from "./store";
 
-const router = createBrowserRouter([
+const router = createBrowserRouter(
+  [
+    {
+      path: "/",
+      element: <Cart />,
+    },
+    {
+      path: "/checkout",
+      element: <Checkout />,
+    },
+    {
+      path: "/complete",
+      element: <Complete />,
+    },
+  ],
   {
-    path: "/",
-    element: <Cart />,
-  },
-  {
-    path: "/checkout",
-    element: <Checkout />,
-  },
-  {
-    path: "/complete",
-    element: <Complete />,
-  },
-]);
+    basename: "/exam_pixi",
+  }
+);
 
 const root = ReactDOM.createRoot(
   document.getElementById("root") as HTMLElement
